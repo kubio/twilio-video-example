@@ -6,6 +6,16 @@
 - Twilio Account
 
 # Setup
+1. create .env
+```
+$ cp env.example .env
+$ vi .env 
+```
+create twilio account & setup Programmable Video.
+Please set Sid/secret to .env.
+
+
+2. run
 ```
 $ yarn start
 ```
