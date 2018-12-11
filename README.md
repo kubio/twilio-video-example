@@ -17,7 +17,8 @@ Please set Sid/secret to .env.
 
 2. run
 ```
-$ yarn start
+$ cd client && yarn install
+$ cd .. && yarn start
 ```
 
 # Usage
